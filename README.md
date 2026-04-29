@@ -148,7 +148,7 @@ Primary drivers of poor performance:
 ![RCA](AtliQ-Supply-Chain-Analysis/images/Chart_Analysis.png)
 
 ### 🔹 Trend Analysis
-![Trend](AtliQ-Supply-Chain-Analysis/images/Trend_Analysis.png)
+![Trend](AtliQ-Supply-Chain-Analysis/images/Trend%20Analysis.png)
 
 ---
 
