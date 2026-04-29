@@ -142,7 +142,7 @@ Primary drivers of poor performance:
 ![Overview](AtliQ-Supply-Chain-Analysis/images/dashboard_overview.png)
 
 ### 🔹 KPI Analysis
-![KPI](AtliQ-Supply-Chain-Analysis/images/Metric_Performance_Analysis.png)
+![KPI](AtliQ-Supply-Chain-Analysis/images/Metric%20_Performance_Analysis.png)
 
 ### 🔹 Root Cause Analysis
 ![RCA](AtliQ-Supply-Chain-Analysis/images/Chart_Analysis.png)
